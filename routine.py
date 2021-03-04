@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import json
 from datetime import datetime as date
+import os 
 
 client = discord.Client()
 bot = commands.Bot(command_prefix = "|")
@@ -172,4 +173,5 @@ s = json.load(f)
 
 
 
-bot.run(s["token"])
+# bot.run(s["token"])
+bot.run(os.environ['token'])
