@@ -9,11 +9,6 @@ bot = commands.Bot(command_prefix = "|")
 
 
 
-routine_file = open("./assets/data.json",)
-data = json.load(routine_file)
-
-
-
 
 ############################EVENTS################################
 @bot.event
@@ -115,7 +110,8 @@ async def fetch(ctx):
     subject = subject.content.lower()
     day = day.content.lower()
 
-
+    with open("./assets/"+section+"/data.json" , "r") as routine_file:
+        data = json.load(routine_file)
 
     try:
         await ctx.channel.send("```Here's your link :``` {}".format(data[section][day][subject]))
@@ -142,6 +138,10 @@ async def showall(ctx, section):
     await ctx.channel.send("Here is your Routine for Section {}".format(section))
     section = section.lower()
     message = ""
+
+    with open("./assets/"+section+"/data.json" , "r") as routine_file:
+        data = json.load(routine_file)
+
 
     for sec in data[section]:
         message = message + sec+ " :\n"
