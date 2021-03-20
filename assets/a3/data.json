@@ -1,0 +1,53 @@
+{
+    "a3" : 
+            
+            {
+                "monday": 
+                        {
+                            "maths":"https://zoom.us/j/7472037816?pwd=QWJlVFNNd09zdkNPNWh5eDI3YXRVUT09", 
+                            "electrical":"https://zoom.us/j/7472037816?pwd=QWJlVFNNd09zdkNPNWh5eDI3YXRVUT09",
+                            "physics_t":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2UyYWI2M2EtZjQ1Zi00ZWJmLTg4NzMtYjJjMWE3ZjA2NTk2%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%2261ec961c-e3a1-41d4-991c-b8db3d3a2ec0%22%7d",
+                            "computer_t":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIyZTEwNGMtN2NkZi00ZTQ3LWE3NTEtNzAxN2NmMWMwMjRl%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%2285327a19-3ac1-4bcf-bd91-c07dbb6b7d4d%22%7d",
+                            "chemistry":"https://zoom.us/j/99477745372?pwd=WDBSUW90YU5vMGswZEhMK0xtM3dkdz09"
+                        },
+                "tuesday": 
+                        {
+                            "maths":"https://zoom.us/j/7472037816?pwd=QWJlVFNNd09zdkNPNWh5eDI3YXRVUT09", 
+                            "ethics":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmU0OWZjZDUtMjk3Mi00OTZmLTgwOTItY2Y5YTFjZDJkMWE1%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%22c6c449f8-17f5-4a08-b6ff-e5f532be94b7%22%7d",
+                            "physics":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWMxYWU1MDQtM2NiNC00MDdlLTk3NTQtN2JjYWY4ZGEzNzMy%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%22149da184-63d0-417b-8b43-c834cfdd0f8d%22%7d",                                
+                            "electrical":"https://zoom.us/j/7472037816?pwd=QWJlVFNNd09zdkNPNWh5eDI3YXRVUT09",
+                            "chemistry":"https://zoom.us/j/99477745372?pwd=WDBSUW90YU5vMGswZEhMK0xtM3dkdz09"
+                        },
+                "wednesday":
+                        {
+                            "economics":"https://zoom.us/j/91044594696?pwd=MDVOUW9qdmJXak9rYlYzVHVjRERwZz09",
+                            "maths":"https://zoom.us/j/7472037816?pwd=QWJlVFNNd09zdkNPNWh5eDI3YXRVUT09", 
+                            "computer":"https://zoom.us/j/7472037816?pwd=QWJlVFNNd09zdkNPNWh5eDI3YXRVUT09",                                
+                            "free":"",
+                            "economics_t" : "Sir will send the link. Check Outlook."
+                        },
+                "thursday":
+                        {
+                            "economics":"https://zoom.us/j/7472037816?pwd=QWJlVFNNd09zdkNPNWh5eDI3YXRVUT09", 
+                            "french":"https://zoom.us/j/95370605834?pwd=Mm5KK2JmZTNzb0dIMmI2RGpBOGZCQT09",
+                            "computer":"https://zoom.us/j/7472037816?pwd=QWJlVFNNd09zdkNPNWh5eDI3YXRVUT09",                               
+                            "engg_drawing":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmRmMDZmNzQtNTAwZi00M2JlLTlhZDQtMWNmYmNiNjExMzg2%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%2244a9d750-dabf-46c6-8316-f501dc7c01c4%22%7d",
+                            "physics":"https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_MWMxODdlNWYtYmQ0Ny00N2UzLWE5MjMtZDZhY2VkMzU3MDRm%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25228bf89164-b311-40ca-a295-2e0f5f39d14e%2522%252c%2522Oid%2522%253a%2522149da184-63d0-417b-8b43-c834cfdd0f8d%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=1f6cbe20-4f94-49fc-a59a-c1c9577bbced&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+                        },
+                "friday": 
+                        {
+                            "maths_t":"https://zoom.us/j/96245970664?pwd=WDUyTkgxMnpmODZmU2NOazhvenU3UT09",
+                            "free":"",
+                            "french":"https://zoom.us/j/96984574395?pwd=dXhrdlEzWGQvd0FaVjBjNm9jbXpVQT09",                               
+                            "workshop":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODI5NTgyOTItMmY5Ni00ZjE3LThhZjMtNjA0NWFlOTVkNWQ2%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%2271b80940-ae95-4e12-841e-092dd2ab3182%22%7d",
+                            "free_2":""
+                        },
+                "saturday": 
+                        {
+                            "computer_l":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTkwMWE2MWYtZTFjOS00NDM3LWJmZTQtMDg5Zjc0NDMzNTk0%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%2285327a19-3ac1-4bcf-bd91-c07dbb6b7d4d%22%7d",
+                            "free":"",
+                            "electrical_t":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJiYzk4N2YtMmYwZS00MGJmLWJhYTUtNGRmNmFlODBjZDll%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%22bb13a982-c86b-453d-8a5b-155df68be8ec%22%7d",                               
+                            "electrical_l":"https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDYzNzA2MGYtYzBhMS00ZDIxLThhYTEtN2QxYTMzMWY4YzJj%40thread.v2/0?context=%7b%22Tid%22%3a%228bf89164-b311-40ca-a295-2e0f5f39d14e%22%2c%22Oid%22%3a%22bb13a982-c86b-453d-8a5b-155df68be8ec%22%7d"
+                        }
+            }
+}
